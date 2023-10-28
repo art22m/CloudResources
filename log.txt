@@ -1,0 +1,569 @@
+time="2023-10-18T01:43:08+03:00" level=info msg=starting...
+time="2023-10-18T01:43:13+03:00" level=info msg="Availability 0.597857"
+time="2023-10-18T01:43:13+03:00" level=info msg="Requests 611"
+time="2023-10-18T01:43:13+03:00" level=info msg="RequestsTotal 73217899"
+time="2023-10-18T01:43:13+03:00" level=info msg="ResponseTime 27"
+time="2023-10-18T01:43:13+03:00" level=info msg="VMCPU 112"
+time="2023-10-18T01:43:13+03:00" level=info msg="VMCPULoad 3.13452"
+time="2023-10-18T01:43:13+03:00" level=info msg="VMRAM 112"
+time="2023-10-18T01:43:13+03:00" level=info msg="VMRAMLoad 18.2619"
+time="2023-10-18T01:43:13+03:00" level=info msg="DBCPU 42"
+time="2023-10-18T01:43:13+03:00" level=info msg="DBCPULoad 6.45396"
+time="2023-10-18T01:43:13+03:00" level=info msg="DBRAM 42"
+time="2023-10-18T01:43:13+03:00" level=info msg="DBRAMLoad 51.454"
+time="2023-10-18T01:43:13+03:00" level=info
+time="2023-10-18T01:43:18+03:00" level=info msg="Availability 0.597857"
+time="2023-10-18T01:43:18+03:00" level=info msg="Requests 611"
+time="2023-10-18T01:43:18+03:00" level=info msg="RequestsTotal 73217899"
+time="2023-10-18T01:43:18+03:00" level=info msg="ResponseTime 27"
+time="2023-10-18T01:43:18+03:00" level=info msg="VMCPU 112"
+time="2023-10-18T01:43:18+03:00" level=info msg="VMCPULoad 3.13452"
+time="2023-10-18T01:43:18+03:00" level=info msg="VMRAM 112"
+time="2023-10-18T01:43:18+03:00" level=info msg="VMRAMLoad 18.2619"
+time="2023-10-18T01:43:18+03:00" level=info msg="DBCPU 42"
+time="2023-10-18T01:43:18+03:00" level=info msg="DBCPULoad 6.45396"
+time="2023-10-18T01:43:18+03:00" level=info msg="DBRAM 42"
+time="2023-10-18T01:43:18+03:00" level=info msg="DBRAMLoad 51.454"
+time="2023-10-18T01:43:18+03:00" level=info
+time="2023-10-18T01:43:23+03:00" level=info msg="Availability 0.597857"
+time="2023-10-18T01:43:23+03:00" level=info msg="Requests 611"
+time="2023-10-18T01:43:23+03:00" level=info msg="RequestsTotal 73217899"
+time="2023-10-18T01:43:23+03:00" level=info msg="ResponseTime 27"
+time="2023-10-18T01:43:23+03:00" level=info msg="VMCPU 112"
+time="2023-10-18T01:43:23+03:00" level=info msg="VMCPULoad 3.13452"
+time="2023-10-18T01:43:23+03:00" level=info msg="VMRAM 112"
+time="2023-10-18T01:43:23+03:00" level=info msg="VMRAMLoad 18.2619"
+time="2023-10-18T01:43:23+03:00" level=info msg="DBCPU 42"
+time="2023-10-18T01:43:23+03:00" level=info msg="DBCPULoad 6.45396"
+time="2023-10-18T01:43:23+03:00" level=info msg="DBRAM 42"
+time="2023-10-18T01:43:23+03:00" level=info msg="DBRAMLoad 51.454"
+time="2023-10-18T01:43:23+03:00" level=info
+time="2023-10-18T01:43:28+03:00" level=info msg="Availability 0.597857"
+time="2023-10-18T01:43:28+03:00" level=info msg="Requests 611"
+time="2023-10-18T01:43:28+03:00" level=info msg="RequestsTotal 73217899"
+time="2023-10-18T01:43:28+03:00" level=info msg="ResponseTime 27"
+time="2023-10-18T01:43:28+03:00" level=info msg="VMCPU 112"
+time="2023-10-18T01:43:28+03:00" level=info msg="VMCPULoad 3.13452"
+time="2023-10-18T01:43:28+03:00" level=info msg="VMRAM 112"
+time="2023-10-18T01:43:28+03:00" level=info msg="VMRAMLoad 18.2619"
+time="2023-10-18T01:43:28+03:00" level=info msg="DBCPU 42"
+time="2023-10-18T01:43:28+03:00" level=info msg="DBCPULoad 6.45396"
+time="2023-10-18T01:43:28+03:00" level=info msg="DBRAM 42"
+time="2023-10-18T01:43:28+03:00" level=info msg="DBRAMLoad 51.454"
+time="2023-10-18T01:43:28+03:00" level=info
+time="2023-10-18T01:43:33+03:00" level=info msg="Availability 0.597857"
+time="2023-10-18T01:43:33+03:00" level=info msg="Requests 611"
+time="2023-10-18T01:43:33+03:00" level=info msg="RequestsTotal 73217899"
+time="2023-10-18T01:43:33+03:00" level=info msg="ResponseTime 27"
+time="2023-10-18T01:43:33+03:00" level=info msg="VMCPU 112"
+time="2023-10-18T01:43:33+03:00" level=info msg="VMCPULoad 3.13452"
+time="2023-10-18T01:43:33+03:00" level=info msg="VMRAM 112"
+time="2023-10-18T01:43:33+03:00" level=info msg="VMRAMLoad 18.2619"
+time="2023-10-18T01:43:33+03:00" level=info msg="DBCPU 42"
+time="2023-10-18T01:43:33+03:00" level=info msg="DBCPULoad 6.45396"
+time="2023-10-18T01:43:33+03:00" level=info msg="DBRAM 42"
+time="2023-10-18T01:43:33+03:00" level=info msg="DBRAMLoad 51.454"
+time="2023-10-18T01:43:33+03:00" level=info
+time="2023-10-18T19:06:02+03:00" level=info msg=starting...
+time="2023-10-18T19:07:35+03:00" level=info msg=starting...
+time="2023-10-19T21:18:06+03:00" level=info msg=starting...
+time="2023-10-19T22:29:18+03:00" level=info msg=starting...
+time="2023-10-19T22:29:19+03:00" level=info msg="Availability 0.620565"
+time="2023-10-19T22:29:19+03:00" level=info msg="Requests 7893"
+time="2023-10-19T22:29:19+03:00" level=info msg="RequestsTotal 83856067"
+time="2023-10-19T22:29:19+03:00" level=info msg="ResponseTime 94"
+time="2023-10-19T22:29:19+03:00" level=info msg="VMCPU 140"
+time="2023-10-19T22:29:19+03:00" level=info msg="VMCPULoad 9.03092"
+time="2023-10-19T22:29:19+03:00" level=info msg="VMRAM 140"
+time="2023-10-19T22:29:19+03:00" level=info msg="VMRAMLoad 48.5475"
+time="2023-10-19T22:29:19+03:00" level=info msg="DBCPU 32"
+time="2023-10-19T22:29:19+03:00" level=info msg="DBCPULoad 25.4478"
+time="2023-10-19T22:29:19+03:00" level=info msg="DBRAM 32"
+time="2023-10-19T22:29:19+03:00" level=info msg="DBRAMLoad 32.479"
+time="2023-10-19T22:29:19+03:00" level=info msg=-----------------
+time="2023-10-19T22:43:40+03:00" level=info msg=starting...
+time="2023-10-19T22:59:59+03:00" level=info msg=starting...
+time="2023-10-19T23:00:00+03:00" level=info msg=sell125218
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123828
+time="2023-10-19T23:00:00+03:00" level=info msg=sell119547
+time="2023-10-19T23:00:00+03:00" level=info msg=sell119549
+time="2023-10-19T23:00:00+03:00" level=info msg=sell119550
+time="2023-10-19T23:00:00+03:00" level=info msg=sell119658
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123762
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123763
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312954
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123764
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123765
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123766
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123767
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123823
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123824
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123825
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123826
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123827
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312953
+time="2023-10-19T23:00:00+03:00" level=info msg=sell123829
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124189
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124190
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124191
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124192
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124193
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124194
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124251
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124252
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124253
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124254
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124255
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124256
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124257
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124708
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124709
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124710
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124711
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124712
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124713
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124814
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124815
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124816
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124818
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124819
+time="2023-10-19T23:00:00+03:00" level=info msg=sell124820
+time="2023-10-19T23:00:00+03:00" level=info msg=sell125216
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311835
+time="2023-10-19T23:00:00+03:00" level=info msg=sell119503
+time="2023-10-19T23:00:00+03:00" level=info msg=sell289750
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312952
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312951
+time="2023-10-19T23:00:00+03:00" level=info msg=sell289677
+time="2023-10-19T23:00:00+03:00" level=info msg=sell289678
+time="2023-10-19T23:00:00+03:00" level=info msg=sell289679
+time="2023-10-19T23:00:00+03:00" level=info msg=sell289680
+time="2023-10-19T23:00:00+03:00" level=info msg=sell289681
+time="2023-10-19T23:00:00+03:00" level=info msg=sell289682
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312950
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311833
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311834
+time="2023-10-19T23:00:00+03:00" level=info msg=sell119392
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311836
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311837
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311838
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311934
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311935
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311936
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311937
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311938
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311939
+time="2023-10-19T23:00:00+03:00" level=info msg=sell311940
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312263
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312264
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312265
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312266
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312267
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312268
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312314
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312315
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312316
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312317
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312318
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312319
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312870
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312871
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312872
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312873
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312874
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312875
+time="2023-10-19T23:00:00+03:00" level=info msg=sell312949
+time="2023-10-19T23:00:00+03:00" level=info msg=sell119656
+time="2023-10-19T23:00:00+03:00" level=info msg=sell126964
+time="2023-10-19T23:00:00+03:00" level=info msg=sell119657
+time="2023-10-19T23:00:00+03:00" level=info msg=sell119546
+time="2023-10-19T23:00:00+03:00" level=info msg=sell119545
+time="2023-10-19T23:00:50+03:00" level=info msg=starting...
+time="2023-10-19T23:00:50+03:00" level=info msg="need to sellvm"
+time="2023-10-19T23:00:50+03:00" level=info msg=sell125218
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123828
+time="2023-10-19T23:00:50+03:00" level=info msg=sell119547
+time="2023-10-19T23:00:50+03:00" level=info msg=sell119549
+time="2023-10-19T23:00:50+03:00" level=info msg=sell119550
+time="2023-10-19T23:00:50+03:00" level=info msg=sell119658
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123762
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123763
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312954
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123764
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123765
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123766
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123767
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123823
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123824
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123825
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123826
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123827
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312953
+time="2023-10-19T23:00:50+03:00" level=info msg=sell123829
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124189
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124190
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124191
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124192
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124193
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124194
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124251
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124252
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124253
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124254
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124255
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124256
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124257
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124708
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124709
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124710
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124711
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124712
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124713
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124814
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124815
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124816
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124818
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124819
+time="2023-10-19T23:00:50+03:00" level=info msg=sell124820
+time="2023-10-19T23:00:50+03:00" level=info msg=sell125216
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311835
+time="2023-10-19T23:00:50+03:00" level=info msg=sell119503
+time="2023-10-19T23:00:50+03:00" level=info msg=sell289750
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312952
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312951
+time="2023-10-19T23:00:50+03:00" level=info msg=sell289677
+time="2023-10-19T23:00:50+03:00" level=info msg=sell289678
+time="2023-10-19T23:00:50+03:00" level=info msg=sell289679
+time="2023-10-19T23:00:50+03:00" level=info msg=sell289680
+time="2023-10-19T23:00:50+03:00" level=info msg=sell289681
+time="2023-10-19T23:00:50+03:00" level=info msg=sell289682
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312950
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311833
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311834
+time="2023-10-19T23:00:50+03:00" level=info msg=sell119392
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311836
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311837
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311838
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311934
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311935
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311936
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311937
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311938
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311939
+time="2023-10-19T23:00:50+03:00" level=info msg=sell311940
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312263
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312264
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312265
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312266
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312267
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312268
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312314
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312315
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312316
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312317
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312318
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312319
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312870
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312871
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312872
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312873
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312874
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312875
+time="2023-10-19T23:00:50+03:00" level=info msg=sell312949
+time="2023-10-19T23:00:50+03:00" level=info msg=sell119656
+time="2023-10-19T23:00:50+03:00" level=info msg=sell126964
+time="2023-10-19T23:00:50+03:00" level=info msg=sell119657
+time="2023-10-19T23:00:50+03:00" level=info msg=sell119546
+time="2023-10-19T23:00:50+03:00" level=info msg=sell119545
+time="2023-10-19T23:01:05+03:00" level=info msg=starting...
+time="2023-10-19T23:01:05+03:00" level=info msg="need to sellvm"
+time="2023-10-19T23:01:05+03:00" level=info msg=sell125218
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123828
+time="2023-10-19T23:01:05+03:00" level=info msg=sell119547
+time="2023-10-19T23:01:05+03:00" level=info msg=sell119549
+time="2023-10-19T23:01:05+03:00" level=info msg=sell119550
+time="2023-10-19T23:01:05+03:00" level=info msg=sell119658
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123762
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123763
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312954
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123764
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123765
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123766
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123767
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123823
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123824
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123825
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123826
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123827
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312953
+time="2023-10-19T23:01:05+03:00" level=info msg=sell123829
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124189
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124190
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124191
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124192
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124193
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124194
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124251
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124252
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124253
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124254
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124255
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124256
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124257
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124708
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124709
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124710
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124711
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124712
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124713
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124814
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124815
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124816
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124818
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124819
+time="2023-10-19T23:01:05+03:00" level=info msg=sell124820
+time="2023-10-19T23:01:05+03:00" level=info msg=sell125216
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311835
+time="2023-10-19T23:01:05+03:00" level=info msg=sell119503
+time="2023-10-19T23:01:05+03:00" level=info msg=sell289750
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312952
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312951
+time="2023-10-19T23:01:05+03:00" level=info msg=sell289677
+time="2023-10-19T23:01:05+03:00" level=info msg=sell289678
+time="2023-10-19T23:01:05+03:00" level=info msg=sell289679
+time="2023-10-19T23:01:05+03:00" level=info msg=sell289680
+time="2023-10-19T23:01:05+03:00" level=info msg=sell289681
+time="2023-10-19T23:01:05+03:00" level=info msg=sell289682
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312950
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311833
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311834
+time="2023-10-19T23:01:05+03:00" level=info msg=sell119392
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311836
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311837
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311838
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311934
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311935
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311936
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311937
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311938
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311939
+time="2023-10-19T23:01:05+03:00" level=info msg=sell311940
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312263
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312264
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312265
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312266
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312267
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312268
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312314
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312315
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312316
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312317
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312318
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312319
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312870
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312871
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312872
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312873
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312874
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312875
+time="2023-10-19T23:01:05+03:00" level=info msg=sell312949
+time="2023-10-19T23:01:05+03:00" level=info msg=sell119656
+time="2023-10-19T23:01:05+03:00" level=info msg=sell126964
+time="2023-10-19T23:01:05+03:00" level=info msg=sell119657
+time="2023-10-19T23:01:05+03:00" level=info msg=sell119546
+time="2023-10-19T23:01:05+03:00" level=info msg=sell119545
+time="2023-10-19T23:01:25+03:00" level=info msg=starting...
+time="2023-10-19T23:01:25+03:00" level=info msg="need to sellvm"
+time="2023-10-19T23:01:25+03:00" level=info msg=sell125218
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123828
+time="2023-10-19T23:01:25+03:00" level=info msg=sell119547
+time="2023-10-19T23:01:25+03:00" level=info msg=sell119549
+time="2023-10-19T23:01:25+03:00" level=info msg=sell119550
+time="2023-10-19T23:01:25+03:00" level=info msg=sell119658
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123762
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123763
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312954
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123764
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123765
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123766
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123767
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123823
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123824
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123825
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123826
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123827
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312953
+time="2023-10-19T23:01:25+03:00" level=info msg=sell123829
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124189
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124190
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124191
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124192
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124193
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124194
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124251
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124252
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124253
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124254
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124255
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124256
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124257
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124708
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124709
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124710
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124711
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124712
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124713
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124814
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124815
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124816
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124818
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124819
+time="2023-10-19T23:01:25+03:00" level=info msg=sell124820
+time="2023-10-19T23:01:25+03:00" level=info msg=sell125216
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311835
+time="2023-10-19T23:01:25+03:00" level=info msg=sell119503
+time="2023-10-19T23:01:25+03:00" level=info msg=sell289750
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312952
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312951
+time="2023-10-19T23:01:25+03:00" level=info msg=sell289677
+time="2023-10-19T23:01:25+03:00" level=info msg=sell289678
+time="2023-10-19T23:01:25+03:00" level=info msg=sell289679
+time="2023-10-19T23:01:25+03:00" level=info msg=sell289680
+time="2023-10-19T23:01:25+03:00" level=info msg=sell289681
+time="2023-10-19T23:01:25+03:00" level=info msg=sell289682
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312950
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311833
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311834
+time="2023-10-19T23:01:25+03:00" level=info msg=sell119392
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311836
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311837
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311838
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311934
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311935
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311936
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311937
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311938
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311939
+time="2023-10-19T23:01:25+03:00" level=info msg=sell311940
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312263
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312264
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312265
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312266
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312267
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312268
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312314
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312315
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312316
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312317
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312318
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312319
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312870
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312871
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312872
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312873
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312874
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312875
+time="2023-10-19T23:01:25+03:00" level=info msg=sell312949
+time="2023-10-19T23:01:25+03:00" level=info msg=sell119656
+time="2023-10-19T23:01:25+03:00" level=info msg=sell126964
+time="2023-10-19T23:01:25+03:00" level=info msg=sell119657
+time="2023-10-19T23:01:25+03:00" level=info msg=sell119546
+time="2023-10-19T23:01:25+03:00" level=info msg=sell119545
+time="2023-10-19T23:01:45+03:00" level=info msg=starting...
+time="2023-10-19T23:01:45+03:00" level=info msg=kek
+time="2023-10-19T23:01:45+03:00" level=info msg="need to sellvm"
+time="2023-10-19T23:01:45+03:00" level=info msg=sell125218
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123828
+time="2023-10-19T23:01:45+03:00" level=info msg=sell119547
+time="2023-10-19T23:01:45+03:00" level=info msg=sell119549
+time="2023-10-19T23:01:45+03:00" level=info msg=sell119550
+time="2023-10-19T23:01:45+03:00" level=info msg=sell119658
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123762
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123763
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312954
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123764
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123765
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123766
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123767
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123823
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123824
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123825
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123826
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123827
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312953
+time="2023-10-19T23:01:45+03:00" level=info msg=sell123829
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124189
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124190
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124191
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124192
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124193
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124194
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124251
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124252
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124253
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124254
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124255
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124256
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124257
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124708
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124709
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124710
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124711
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124712
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124713
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124814
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124815
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124816
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124818
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124819
+time="2023-10-19T23:01:45+03:00" level=info msg=sell124820
+time="2023-10-19T23:01:45+03:00" level=info msg=sell125216
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311835
+time="2023-10-19T23:01:45+03:00" level=info msg=sell119503
+time="2023-10-19T23:01:45+03:00" level=info msg=sell289750
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312952
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312951
+time="2023-10-19T23:01:45+03:00" level=info msg=sell289677
+time="2023-10-19T23:01:45+03:00" level=info msg=sell289678
+time="2023-10-19T23:01:45+03:00" level=info msg=sell289679
+time="2023-10-19T23:01:45+03:00" level=info msg=sell289680
+time="2023-10-19T23:01:45+03:00" level=info msg=sell289681
+time="2023-10-19T23:01:45+03:00" level=info msg=sell289682
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312950
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311833
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311834
+time="2023-10-19T23:01:45+03:00" level=info msg=sell119392
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311836
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311837
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311838
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311934
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311935
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311936
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311937
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311938
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311939
+time="2023-10-19T23:01:45+03:00" level=info msg=sell311940
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312263
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312264
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312265
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312266
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312267
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312268
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312314
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312315
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312316
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312317
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312318
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312319
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312870
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312871
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312872
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312873
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312874
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312875
+time="2023-10-19T23:01:45+03:00" level=info msg=sell312949
+time="2023-10-19T23:01:45+03:00" level=info msg=sell119656
+time="2023-10-19T23:01:45+03:00" level=info msg=sell126964
+time="2023-10-19T23:01:45+03:00" level=info msg=sell119657
+time="2023-10-19T23:01:45+03:00" level=info msg=sell119546
+time="2023-10-19T23:01:45+03:00" level=info msg=sell119545

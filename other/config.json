@@ -1,0 +1,23 @@
+{
+  "NeedLoad": 74.0,
+  "SleepTimeSeconds": 60,
+  "ErrorSleepTimeSeconds": 5,
+  "UseUpdateAbuse": true,
+  "MaxMachineParam": 8,
+  "DB": {
+    "MinLoad": 70.0,
+    "MaxLoad": 78.0,
+    "RequestCPU": 0.001,
+    "RequestRAM": 1.0,
+    "CPU": 0.05,
+    "RAM": 500.0
+  },
+  "VM": {
+    "MinLoad": 65.0,
+    "MaxLoad": 75.0,
+    "RequestCPU": 0.001,
+    "RequestRAM": 5.0,
+    "CPU": 0.05,
+    "RAM": 300.0
+  }
+}
